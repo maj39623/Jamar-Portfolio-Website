@@ -182,7 +182,7 @@ const projects = [
         ],
         image: portfolio,
         demo_link: "https://devjamarriley.com/",
-        source_code_link: "https://github.com/",
+        source_code_link: "https://github.com/maj39623/Jamar-Portfolio-Website/",
     },
     {
         name: "Spark",
